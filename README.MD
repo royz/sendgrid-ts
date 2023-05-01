@@ -1,0 +1,3 @@
+#### Work in progress...
+
+This library will add types to the sendgrid templates with dynamic data
