@@ -1,0 +1,22 @@
+{
+  "name": "sendgrid-ts",
+  "version": "1.0.0",
+  "description": "A module to add types to the sendgrid templates with dynamic data support",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royz/sendgrid-ts.git"
+  },
+  "keywords": [
+    "sendgrid"
+  ],
+  "author": "Rajorshi Roy <rajorshi.me@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/royz/sendgrid-ts/issues"
+  },
+  "homepage": "https://github.com/royz/sendgrid-ts#readme"
+}
